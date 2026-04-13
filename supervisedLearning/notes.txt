@@ -1,0 +1,3 @@
+smoker -> yes is 1              no is 0
+
+sex     -> female is 1  and male is 0
